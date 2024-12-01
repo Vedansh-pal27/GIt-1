@@ -1,4 +1,4 @@
-# GIt-1
+# Git-1
 Start learning git
 <br>
 Author- Vedansh pal
